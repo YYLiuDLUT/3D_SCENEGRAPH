@@ -28,7 +28,7 @@ python download.py -o /path/to/3RScan/ --type labels.instances.annotated.v2.ply
 
 * Run `transform_ply.py` under `./data_processing/` to generate `labels.instances.align.annotated.ply`
 
-# Generate training/evaluation data with GT segmentations
+### Generate training/evaluation data with GT segmentations
 Use `gen_data_gt.py` to generate the training data in the 3DSSG paper.
 
 
