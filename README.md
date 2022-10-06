@@ -13,8 +13,9 @@
 The following is exactly the same as [3DSSG](https://github.com/ShunChengWu/3DSSG/blob/master/data_processing/README.md).
 
 ### Data preparation
+
+Alternatively, you can download the files from this [link](https://drive.google.com/file/d/1V_QIDvu1fZqKkjP2Kg41HNCjX8TPfH6u/view?usp=sharing)
 Download data from 3RScan
-```
 * To download the 3RScan 3D data, visit their [project page](https://waldjohannau.github.io/RIO).
 * After receiving the download script, run:
 ```
